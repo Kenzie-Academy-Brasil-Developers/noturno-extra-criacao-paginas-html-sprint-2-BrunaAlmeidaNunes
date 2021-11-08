@@ -1,1 +1,30 @@
-/* FOLHA DE ESTILO DA PAGINA DE JORNAL */
+body{
+background-color: #222326;
+font-family: 'Nunito Sans',sans-serif;
+padding: 30px;
+}
+h1{
+	color: azure;
+	
+}
+h2{
+	color: azure;
+}
+div{
+	color: azure;
+}
+li {
+	list-style: none;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
+.imgpaginas{
+	width: 250px;
+	height: 250px;
+}
+.pgnprinc{
+	 text-align: center;
+}
