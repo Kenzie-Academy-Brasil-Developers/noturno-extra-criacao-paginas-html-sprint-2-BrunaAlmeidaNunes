@@ -1,17 +1,25 @@
-body{
-background-color: #222326;
+body {
+background-color: #545457;
 font-family: 'Nunito Sans',sans-serif;
-padding: 30px;
+padding: 5px;
+margin: 35px;
+border : 5px
 }
 h1{
 	color: azure;
-	
+	margin: 35px;
 }
 h2{
 	color: azure;
 }
 div{
 	color: azure;
+}
+a:hover{ 
+	color: white;
+}
+a{ 
+	text-decoration: none;
 }
 li {
 	list-style: none;
@@ -20,6 +28,7 @@ li {
 img {
 	width: 150px;
 	height: 150px;
+	border-radius: 5px;
 }
 .imgpaginas{
 	width: 250px;
