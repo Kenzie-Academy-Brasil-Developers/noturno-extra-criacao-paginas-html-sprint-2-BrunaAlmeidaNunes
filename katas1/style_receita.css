@@ -23,13 +23,17 @@ li {
 img {
 	width: 150px;
 	height: 150px;
+	border-radius: 5px;
+	padding: 0px;
+	border: 10px solid rgb(185, 185, 248);
 }
 
 div {
 	text-align: center;
 	float: left;
 	width: 33, 33%;
-	/* three boxes (use 25% for four, and 50% for two, etc) */
-	padding: 5px;
-	/* if you want space between the images */
+	padding: 5px;	
+}
+figcaption{
+	display: none;
 }
