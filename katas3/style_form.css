@@ -1,1 +1,68 @@
 /* FOLHA DE ESTILO DA PAGINA DE FORMULÁRIO */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 1px;
+  padding: 30px;
+  background-image: linear-gradient(to bottom right, #7fb6f598, #f2f2f2);
+  box-shadow: 1 1 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.form {
+  background: white;
+  width: 350px;
+  margin: 20px 80px 90px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  padding: 25px 25px;
+  margin: 10% 35%;
+  
+}
+
+.form input {
+  font-family: 'Roboto';
+  background-color: hsla(212, 90%, 62%, 0.445);
+  width: 300px;
+  border: 3px;
+  margin: 3px;
+  padding: 15px;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+
+.form button {
+  font-family: 'Roboto';
+  text-transform: uppercase;
+  background-color: rgb(30, 61, 128);
+  width: 300px;
+  border: none;
+  padding: 15px;
+  color: white;
+  font-size: 15px;
+  cursor: auto;
+  margin: 5px;
+}
+.opcoes {
+  font-family: 'Roboto';
+width: 300px;
+  box-sizing: border-box;
+  font-size: 15px;
+  color:rgb(95, 94, 94);
+  margin: 5px;
+  padding: 15px;
+  border-color: hsla(212, 90%, 62%, 0.445);
+  background-color: hsla(212, 90%, 62%, 0.445);
+  box-sizing: border-box;
+}
+.story{
+  font-family: 'Roboto';
+  width: 300px;
+  font-size: 15px;
+color: rgb(95, 94, 94);;
+  margin: 5px;
+  border-color: hsla(212, 90%, 62%, 0.445);
+  background-color: hsla(212, 90%, 62%, 0.445);
+    box-sizing: border-box;
+}
+.text{
+  color: rgb(95, 94, 94);;
+}
